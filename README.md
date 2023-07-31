@@ -7,5 +7,6 @@ URL of the project
 https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-GetBookings
 
 Newman Report 
-![image](https://github.com/RaagulKrishnan-N/API-Testing-Postman-Projects/assets/140501211/ac94f679-778c-4d24-943b-71f20e5e83d0)
+![image](https://github.com/RaagulKrishnan-N/API-Testing-Postman-Projects/assets/140501211/e8a5622a-3b6d-4554-8356-b3661c25fd2a)
+
 
